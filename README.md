@@ -1,4 +1,4 @@
-# Repositorio de la Carrera de Inteligencia Artificial
+# Repositorio de la Especializacion de Inteligencia Artificial
 
 Este repositorio contiene apuntes, trabajos prácticos, proyectos y recursos relacionados con las materias de la carrera de Inteligencia Artificial.
 
